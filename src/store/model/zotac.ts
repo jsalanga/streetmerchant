@@ -93,6 +93,13 @@ export const Zotac: Store = {
       url:
         'https://store.zotac.com/zotac-gaming-geforce-rtx-3090-trinity-zt-a30900d-10p',
     },
+    {
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3060',
+      url:
+        'https://www.zotacstore.com/us/zotac-gaming-geforce-rtx-3060-amp-white-edition-zt-a30600f-10p',
+    },
   ],
   name: 'zotac',
 };
